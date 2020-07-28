@@ -1,6 +1,4 @@
-### Hi there 👋
-
-#  Self-taught web professional
+![image](https://github.com/rockaru/rockaru/blob/master/Rockaru.ro-logo.png)
 
 I started in school, continued as a **freelancer** and now I’m a self-taught **web professional** with more than **10 years of experience** in the field
 
